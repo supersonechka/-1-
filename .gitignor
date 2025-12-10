@@ -1,0 +1,34 @@
+# Сборка CMake
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+
+# Исполняемые файлы и библиотеки
+bin/
+*.exe
+*.dll
+*.dylib
+*.so
+
+# Скрытые файлы IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Макросы macOS
+.DS_Store
+._*
+
+# Временные файлы
+*.o
+*.obj
+*.log
+*.tmp
+
+# Резервные копии
+*~
+*.bak

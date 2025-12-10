@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o bin/lib/libhughes.dylib -install_name @rpath/libhughes.dylib CMakeFiles/hughes.dir/src/algorithms/hughes.cpp.o  bin/lib/libencryption_utils.a

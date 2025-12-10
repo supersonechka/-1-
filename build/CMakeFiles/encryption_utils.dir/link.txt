@@ -1,0 +1,2 @@
+/usr/bin/ar qc bin/lib/libencryption_utils.a CMakeFiles/encryption_utils.dir/src/core/file_utils.cpp.o CMakeFiles/encryption_utils.dir/src/core/encryption_interface.cpp.o CMakeFiles/encryption_utils.dir/src/core/binary_utils.cpp.o
+/usr/bin/ranlib bin/lib/libencryption_utils.a

@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o bin/lib/libpermutation.dylib -install_name @rpath/libpermutation.dylib CMakeFiles/permutation.dir/src/algorithms/permutation.cpp.o  bin/lib/libencryption_utils.a
